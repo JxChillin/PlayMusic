@@ -9,4 +9,3 @@ https://developer.android.com/studio <br>
 3. Click the option to "Get from Version Control" <br>
 4. Choose the directory you wish to place the folder<br>
 5. Run the program <br>
-When play is pressed you will hear "Hours in Silence" by Drake. Enjoy!
